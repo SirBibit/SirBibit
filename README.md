@@ -16,7 +16,7 @@ Here are some of my favorite projects that I've worked on:
 
 [![Project 1 Thumbnail](https://example.com/image.png)](https://github.com/username/project-1)
 
-[![View Project](https://img.shields.io/badge/-View_Project-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/project-1) [![Live Demo](https://img.shields.io/badge/-Live_Demo-0a0a0a?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/SirBibit/DiscordAirconBot)
+[![View Project](https://img.shields.io/badge/-View_Project-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirBibit/DiscordAirconBot) [![Live Demo](https://img.shields.io/badge/-Live_Demo-0a0a0a?style=for-the-badge&logo=netlify&logoColor=white)](not yet)
 
 ### [Project 2] - [Short description]
 
