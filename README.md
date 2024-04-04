@@ -12,11 +12,11 @@ I'm a passionate [Your Profession] based in [Your Location] with [Your Years of 
 
 Here are some of my favorite projects that I've worked on:
 
-### [Project 1] - [Short description]
+### [Discord Aircon Bot] - [A bot to track aircon usage of Discord Users]
 
 [![Project 1 Thumbnail](https://example.com/image.png)](https://github.com/username/project-1)
 
-[![View Project](https://img.shields.io/badge/-View_Project-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/project-1) [![Live Demo](https://img.shields.io/badge/-Live_Demo-0a0a0a?style=for-the-badge&logo=netlify&logoColor=white)](https://example.com)
+[![View Project](https://img.shields.io/badge/-View_Project-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/project-1) [![Live Demo](https://img.shields.io/badge/-Live_Demo-0a0a0a?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/SirBibit/DiscordAirconBot)
 
 ### [Project 2] - [Short description]
 
@@ -34,4 +34,4 @@ Here are some of my favorite projects that I've worked on:
 
 I'm always interested in meeting new people and collaborating on cool projects. Feel free to connect with me on [Social Media Profile], check out my [Website], or send me an email at [Your Email].
 
-[![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/username)
+[![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/SirBibit)
